@@ -1,0 +1,24 @@
+system-ui-tools (1.0.3) unstable; urgency=low
+
+  * WLAN icon showing signal strength
+
+ -- CODeRUS <coderusinbox@gmail.com>  Sat, 25 Aug 2012 20:49:37 +0600
+
+system-ui-tools (1.0.2) unstable; urgency=low
+
+  * WLAN icon showing connection state (experimental)
+  * Long press open standart connection dialog
+
+ -- CODeRUS <coderusinbox@gmail.com>  Sat, 25 Aug 2012 20:49:37 +0600
+
+system-ui-tools (1.0.1) unstable; urgency=low
+
+  * Fixed background connections icon.
+
+ -- CODeRUS <coderusinbox@gmail.com>  Sat, 25 Aug 2012 20:49:37 +0600
+
+system-ui-tools (1.0.0) unstable; urgency=low
+
+   * Initial Release.
+
+  -- CODeRUS <coderusinbox@gmail.com>  Sat, 25 Aug 2012 20:49:37 +0600
