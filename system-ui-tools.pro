@@ -24,7 +24,7 @@ png.files = icons/icon-tools-bluetooth-off.png \
 	    icons/icon-tools-wlan-connecting.png \
 	    icons/icon-tools-wlan-off.png \
 	    icons/icon-tools-wlan-on.png
-png.path = /usr/share/themes/blanco/meegotouch/icons
+png.path = /usr/share/themes/base/meegotouch/icons
 
 desktop.files = statusindicatormenu-tools.desktop
 desktop.path = /usr/share/meegotouch/applicationextensions

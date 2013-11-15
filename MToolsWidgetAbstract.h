@@ -39,6 +39,8 @@ private:
     MFeedback *feedback_release;
     MFeedback *feedback_long;
 
+    QString currentTheme;
+
     QList<QImage> m_icons;
 
     bool action;

@@ -1,3 +1,13 @@
+system-ui-tools (1.0.5) unstable; urgency=low
+  * <Add change description here>
+
+ -- CODeRUS <coderusinbox@gmail.com>  Fri, 15 Nov 2013 16:45:30 +0600
+
+system-ui-tools (1.0.4) unstable; urgency=low
+  * <Add change description here>
+
+ -- CODeRUS <coderusinbox@gmail.com>  Thu, 14 Nov 2013 00:11:29 +0600
+
 system-ui-tools (1.0.3) unstable; urgency=low
 
   * WLAN icon showing signal strength
